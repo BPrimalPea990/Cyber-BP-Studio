@@ -5,6 +5,6 @@ A Discord bot by BP-Studio, it's still on development.
 Do not use this bot for illegal acts.
 
 # Usage
-Type **cyberbp** to call this bot.
+Ping this bot to call it.
 
 # Still on development
