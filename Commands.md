@@ -9,5 +9,6 @@
 - !bp_ping = **Pong! 🏓** Check the bot's latency.
 - /send-as-bot = Send your messeges as Cyber BP-Studio, required Administrator rights to use this because this is for modmail.
 - !set-ai-channel = Set a channel for chatbot. Chat with your friend, Cyber BP-Studio. He's a good guy, trust me. Use it by typing !set-ai-channel #(channel name). **Issue: sometimes the bot just copying your message, it's caused by the AI maintenance.**
+- !bp_slap = Be a Will Smith, then slap your friend! LMAO
 
 More commands will added in the future!
